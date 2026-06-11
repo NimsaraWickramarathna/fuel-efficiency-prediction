@@ -483,6 +483,3 @@ It is a useful project for understanding regression problems and learning how ma
 
 ---
 
-## Author
-
-Created as a beginner-friendly machine learning project for learning regression, data preprocessing, model training, and model evaluation.
